@@ -1,0 +1,47 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+body {
+  background-color: rgb(151, 190, 177);
+  font-family: "Times New Roman", Times, serif;
+  font-size: 1.1rem;
+}
+
+section {
+  margin: 40px 0px;
+}
+
+.hover:hover {
+  transform: scale(1.04);
+  display: inline-block;
+}
+
+.no-bullet {
+  list-style-type: none;
+  padding: 0px 40%;
+}
+
+.no-bullet li {
+  margin: 12px 0px;
+  border: black solid 1px;
+  padding: 5px;
+}
+
+.name {
+  margin-bottom: 7px;
+}
+
+.categoryList {
+  background-color: rgb(143, 172, 162);
+  border: black solid 1px;
+  margin: 8px 15px;
+  display: inline-block;
+  padding: 5px;
+  font-size: 1.1rem;
+}
+
+.disclamer {
+  padding: 0px 25%;
+}
