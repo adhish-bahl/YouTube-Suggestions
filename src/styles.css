@@ -20,17 +20,22 @@ section {
 
 .no-bullet {
   list-style-type: none;
-  padding: 0px 40%;
+  padding: 0px 10px;
 }
 
 .no-bullet li {
-  margin: 12px 0px;
+  margin: 12px 30rem;
   border: black solid 1px;
   padding: 5px;
 }
 
 .name {
   margin-bottom: 7px;
+  /* width: 100%; */
+}
+
+.rating {
+  /* width: 100%; */
 }
 
 .categoryList {
@@ -44,4 +49,21 @@ section {
 
 .disclamer {
   padding: 0px 25%;
+}
+
+@media screen and (max-width: 1200px) {
+  .no-bullet li {
+    margin: 12px 10rem;
+  }
+}
+
+@media screen and (max-width: 520px) {
+  .no-bullet li {
+    margin: 12px 3rem;
+  }
+}
+
+.ssicon {
+  width: 40px;
+  padding: 10px;
 }
