@@ -49,7 +49,7 @@ export default function App() {
       <div class="heading">
         <h1>Hello Friend!</h1>
       </div>
-      <h3>Here I am to recommend some Youtube channels.</h3>
+      <h3>Here I am recommending you some Youtube channels.</h3>
 
       <section class="btnSec">
         <h4>Pick up a category to see my recommendations!</h4>
@@ -69,9 +69,9 @@ export default function App() {
 
       <section>
         <p class="disclamer">
-          These are just my recommendations, I would love to hear your openion
-          on my recommendations. It would be great if you contact me using links
-          below and tell me if you agree/disagree with my choice!
+          These are just my recommendations, I would love to hear your opinion
+          on the recommendations. It would be great if you contact me using
+          links below and tell me your opinion!
         </p>
       </section>
 
