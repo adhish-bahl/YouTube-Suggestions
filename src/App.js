@@ -71,7 +71,7 @@ export default function App() {
         <p class="disclamer">
           These are just my recommendations, I would love to hear your opinion
           on the recommendations. It would be great if you contact me using
-          links below and tell me your opinion!
+          links below and tell me your opinion.
         </p>
       </section>
 
